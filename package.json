@@ -183,7 +183,7 @@
     "slugg": "^1.1.0",
     "stopword": "^0.1.9",
     "string-replace-to-array": "^1.0.3",
-    "string-similarity": "^1.2.0",
+    "string-similarity": "^1.2.2",
     "stripe": "^4.15.0",
     "striptags": "2.x",
     "styled-components": "^3.3.3",
